@@ -1,9 +1,11 @@
 ---
 layout: page
-title: "A Mutiscale tour of Harmonic Analysis and Machine Learning"
-description: "IHES - 2022, April 19/20/21"
+title: "A Mutiscale tour"
+description: "of Harmonic Analysis and Machine Learning"
 header-img: "img/hokusai-1.jpg"
 ---
+
+IHES - 2022, April 19/20/21
 
 Stéphane Mallat 60's anniversary 
 
