@@ -5,16 +5,17 @@ description: "of Harmonic Analysis and Machine Learning"
 header-img: "img/hokusai-1.jpg"
 ---
 
-IHES - 2022, April 19/20/21
+To celebrate Stéphane Mallat's 60th anniversary, we organize a 3 days workshop at IHES.
 
-Stéphane Mallat 60's anniversary
+_Where:_ [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/plan-acces/).
 
-Put here description.
+_When:_  2022, April 19/20/21
+
 
 Registration
 ====================
 
-Registration is free but mendatory. Due to the limited number of seats, [you should first preregister at this adress](todo).
+Registration is free but mandatory. Due to the limited number of seats, [you should first preregister at this adress](https://docs.google.com/forms/d/1aEzQgY9LvofxoyNH9MJcdKrTZkOZpijSwLhMsksVmOs/prefill).
 
 Speakers
 ====================
