@@ -15,7 +15,7 @@ _When:_  2022, April 19/20/21
 Registration
 ====================
 
-Registration is free but mandatory. Due to the limited number of seats, [you should first preregister at this adress](https://docs.google.com/forms/d/1aEzQgY9LvofxoyNH9MJcdKrTZkOZpijSwLhMsksVmOs/prefill).
+Registration is free but mandatory. Due to the limited number of seats, [you should first preregister at this adress](https://docs.google.com/forms/d/e/1FAIpQLSekESGxrE56jsS7nQ9SodBEgAVy14Za0MsQobKkJ0zfkWBJSw/viewform).
 
 Preliminary List of Speakers
 ====================
