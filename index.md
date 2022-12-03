@@ -17,7 +17,7 @@ Registration
 
 Registration is free but mandatory. Due to the limited number of seats, [you should first preregister at this adress](https://docs.google.com/forms/d/1aEzQgY9LvofxoyNH9MJcdKrTZkOZpijSwLhMsksVmOs/prefill).
 
-Speakers
+Preliminary List of Speakers
 ====================
 
 - [Ruzena Bajcsy](https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html) (Berkeley)
@@ -25,7 +25,6 @@ Speakers
 - [Emmanuel Candes](https://candes.su.domains/) (Stanford)
 - [Xiuyuan Cheng](https://services.math.duke.edu/~xiuyuanc/) (Duke)
 - [Maureen Clerc](https://www.inria.fr/fr/maureen-clerc) (INRIA)
-- [Ingrid Daubechies](https://scholars.duke.edu/person/ingrid.daubechies) (Duke)
 - [Maarten De Hoop](https://maartendehoop.rice.edu/) (Rice)
 - [David Donoho](https://web.stanford.edu/dept/statistics/cgi-bin/donoho/) (Stanford)
 - [Frederic Falzon](https://www.researchgate.net/scientific-contributions/Frederic-Falzon-2047593052) (Thales)
@@ -35,7 +34,6 @@ Speakers
 - [Hamid Krim](https://ece.ncsu.edu/people/ahk/) (North Carolina State University)
 - [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (München)
 - [Yann LeCun](http://yann.lecun.com/) (New York University and Meta)
-- [Brice Menard](https://physics-astronomy.jhu.edu/directory/brice-menard/) (Johns Hopkins)
 - [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/) (Polytechnique)
 - [Edouard Oyallon](https://edouardoyallon.github.io/) (CNRS and Sorbonne)
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke)
