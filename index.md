@@ -36,6 +36,7 @@ Preliminary List of Speakers
 - [Yann LeCun](http://yann.lecun.com/) (New York University and Meta)
 - [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/) (Polytechnique)
 - [Edouard Oyallon](https://edouardoyallon.github.io/) (CNRS and Sorbonne)
+- [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis)
 - [Guillermo Sapiro](https://ece.duke.edu/faculty/guillermo-sapiro) (Duke)
 - [Shihab Shamma](https://lsp.dec.ens.fr/fr/member/667/shihab-shamma) (Maryland)
 - [Eero Simoncelli](https://www.cns.nyu.edu/~eero/) (New York University)
