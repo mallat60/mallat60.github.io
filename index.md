@@ -11,6 +11,8 @@ _Where:_ [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/
 
 _When:_  2022, April 19/20/21
 
+_Organisers:_ Joan Bruna (NYU) and Gabriel Peyré (ENS). 
+
 
 Registration
 ====================
