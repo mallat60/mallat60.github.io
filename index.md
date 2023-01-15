@@ -45,3 +45,9 @@ Preliminary List of Speakers
 - [Martin Vetterli](https://people.epfl.ch/martin.vetterli) (EPFL)
 - [Irene Waldspurger](https://www.ceremade.dauphine.fr/~waldspurger/) (CNRS and Dauphine)
 - [Bin Yu](https://binyu.stat.berkeley.edu/) (Berkeley)
+
+
+Poster
+====================
+
+You can download [the poster of the conference](img/poster-workshop-S.Mallat-2023_V04.pdf).
