@@ -29,6 +29,7 @@ Preliminary List of Speakers
 - [Maureen Clerc](https://www.inria.fr/fr/maureen-clerc) (INRIA)
 - [Maarten De Hoop](https://maartendehoop.rice.edu/) (Rice)
 - [David Donoho](https://web.stanford.edu/dept/statistics/cgi-bin/donoho/) (Stanford)
+- [Michael Elad](https://elad.cs.technion.ac.il/) (Technion)
 - [Frederic Falzon](https://www.researchgate.net/scientific-contributions/Frederic-Falzon-2047593052) (Thales)
 - [Remi Gribonval](https://people.irisa.fr/Remi.Gribonval/) (INRIA)
 - [Stephane Jaffard](https://perso.math.u-pem.fr/jaffard.stephane/) (Créteil)
