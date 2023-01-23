@@ -24,7 +24,7 @@ Preliminary List of Speakers
 
 - [Ruzena Bajcsy](https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html) (Berkeley)
 - [Freddy Bruckstein](https://freddy.cs.technion.ac.il/) (Technion)
-- [‪Richard Baraniuk](http://richb.rice.edu/) (Rice)
+- [Richard Baraniuk](http://richb.rice.edu/) (Rice)
 - [Emmanuel Candes](https://candes.su.domains/) (Stanford)
 - [Xiuyuan Cheng](https://services.math.duke.edu/~xiuyuanc/) (Duke)
 - [Maureen Clerc](https://www.inria.fr/fr/maureen-clerc) (INRIA)
@@ -38,6 +38,7 @@ Preliminary List of Speakers
 - [Hamid Krim](https://ece.ncsu.edu/people/ahk/) (North Carolina State University)
 - [Gitta Kutyniok](https://www.ai.math.uni-muenchen.de/members/professor/kutyniok/index.html) (München)
 - [Yann LeCun](http://yann.lecun.com/) (New York University and Meta)
+- [Yves Meyer](https://ens-paris-saclay.fr/lecole/prix-et-distinctions/docteur-honoris-causa/yves-meyer) (ENS Paris-Saclay)
 - [Eric Moulines](http://www.cmapx.polytechnique.fr/~moulines/) (Polytechnique)
 - [Edouard Oyallon](https://edouardoyallon.github.io/) (CNRS and Sorbonne)
 - [Naoki Saito](https://www.math.ucdavis.edu/~saito/) (UC Davis)
