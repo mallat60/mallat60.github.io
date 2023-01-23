@@ -11,7 +11,7 @@ _Where:_ [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/
 
 _When:_  2022, April 19/20/21
 
-_Organisers:_ Joan Bruna (NYU) and Gabriel Peyré (ENS). 
+_Organisers:_ Joan Bruna (NYU) and Gabriel Peyré (ENS).
 
 
 Registration
@@ -24,6 +24,7 @@ Preliminary List of Speakers
 
 - [Ruzena Bajcsy](https://www2.eecs.berkeley.edu/Faculty/Homepages/bajcsy.html) (Berkeley)
 - [Freddy Bruckstein](https://freddy.cs.technion.ac.il/) (Technion)
+- [‪Richard Baraniuk](http://richb.rice.edu/) (Rice)
 - [Emmanuel Candes](https://candes.su.domains/) (Stanford)
 - [Xiuyuan Cheng](https://services.math.duke.edu/~xiuyuanc/) (Duke)
 - [Maureen Clerc](https://www.inria.fr/fr/maureen-clerc) (INRIA)
