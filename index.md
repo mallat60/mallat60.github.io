@@ -1,17 +1,15 @@
 ---
 layout: page
-title: "A Mutiscale tour"
-description: "of Harmonic Analysis and Machine Learning"
+title: "A Mutiscale tour of Harmonic Analysis and Machine Leanring"
+description: "To Celebrate Stéphane Mallat's 60th birthday"
 header-img: "img/hokusai-1.jpg"
 ---
 
-To celebrate Stéphane Mallat's 60th anniversary, we organize a 3 days workshop at IHES.
+**Where:** [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/plan-acces/).
 
-_Where:_ [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/plan-acces/).
+**When:**  2022, April 19/20/21
 
-_When:_  2022, April 19/20/21
-
-_Organisers:_ Joan Bruna (NYU) and Gabriel Peyré (ENS).
+**Organisers:** Joan Bruna (NYU) and Gabriel Peyré (ENS).
 
 
 Registration
