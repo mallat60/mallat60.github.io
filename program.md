@@ -5,4 +5,4 @@ description: ""
 header-img: "img/hokusai-3.jpg"
 ---
 
-[not yet ready]
+![Schedule of the conference](img/schedule.png)
