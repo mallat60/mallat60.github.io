@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A Mutiscale tour of Harmonic Analysis and Machine Learning"
+title: "A Multiscale tour of Harmonic Analysis and Machine Learning"
 description: "To Celebrate Stéphane Mallat's 60th birthday"
 header-img: "img/hokusai-1.jpg"
 ---
