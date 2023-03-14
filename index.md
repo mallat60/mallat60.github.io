@@ -5,7 +5,7 @@ description: "To Celebrate Stéphane Mallat's 60th birthday"
 header-img: "img/hokusai-1.jpg"
 ---
 
-**Where:** [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/plan-acces/).
+**Where:** [Institut des Hautes Études Scientifiques (IHES)](https://www.ihes.fr/plan-acces/). 
 
 **When:**  2023, April 19/20/21
 
@@ -18,10 +18,26 @@ Registration
 Registration is free but mandatory. Due to the limited number of seats, [you should first preregister at this adress](https://docs.google.com/forms/d/e/1FAIpQLSekESGxrE56jsS7nQ9SodBEgAVy14Za0MsQobKkJ0zfkWBJSw/viewform).
 
 
+Synopsis 
+==============
+
+In the past decades, Data Analysis and Machine Learning have gained a presence across all facets of society, from healthcare to fighting climate change. They now play an instrumental role as a driver for Science. Developing the mathematical foundations of data analysis is thus ever more important. 
+
+Modern data analysis combines the statistical challenge of extracting useful information out of noisy, complex, high-dimensional data, with the modeling challenge of physical and biological processes, and the computational challenge of devising efficient algorithms, and as such, building their mathematical foundations is a uniquely cross-disciplinary endeavor. 
+
+Harmonic Analysis quickly emerged as a bedrock to start such foundations. Over time the field succeeded in building accurate mathematical descriptions of naturally occurring physical phenomena, such as natural images, seismic waves, or speech, leading to a mature theory of signal processing and inverse problems, to name a few. Such a theory developed fundamental concepts such as sparsity and multi-resolution analysis, with precise statistical and computational guarantees. 
+
+In this context, the data revolution of the last decade, spearheaded by Machine Learning and Neural Networks alongside their numerous successes in engineering and computational science, has given the mathematical community a new impetus to extend existing foundations and to build novel interfaces across disciplines – where Harmonic Analysis is playing a central role. Indeed, its core principles, namely using the geometry of the physical domain to define the concepts of scale and frequency – and leverage them to build powerful non-linear approximation spaces breaking the curse of dimensionality, are nowadays being connected with areas such as Neuroscience, Optimal Transport, Statistical Physics or Optimization, in order to address the new challenges of modern deep learning. 
+
+The purpose of this meeting is to bring together some of the characters of this story, past, present, and future – and to celebrate the 60th birthday of a leading one amongst them, Stéphane Mallat, professor at Collège de France.
+
+His journey through Harmonic Analysis, Machine Learning, and Physics has profoundly influenced how these areas have evolved and blended together, and are now breaking new ground in our theoretical understanding of modern data analysis.
+
+
 Program 
 ==========
 
-Current program can be found [here](img/Stephane 60 - schedule_final.pdf)
+The current (tentative) schedule can be found [here](img/Stephane 60 - schedule_final.pdf)
 
 
 List of Speakers
