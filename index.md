@@ -21,7 +21,7 @@ Registration is free but mandatory. Due to the limited number of seats, [you sho
 Program 
 ==========
 
-Current program can be found [here](img/schedule.pdf)
+Current program can be found [here](img/Stephane 60 - schedule_final.pdf)
 
 
 List of Speakers
