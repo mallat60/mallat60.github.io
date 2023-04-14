@@ -37,7 +37,7 @@ His journey through Harmonic Analysis, Machine Learning, and Physics has profoun
 Program 
 ==========
 
-The current (tentative) schedule can be found [here](img/Stephane 60 - schedule_final.pdf)
+The current (tentative) schedule can be found [here](program.md).
 
 
 List of Speakers
