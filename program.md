@@ -59,9 +59,9 @@ _Abstract:_ Image denoising is one of the oldest and most studied problems in im
 _Keywords:_ signal processing, image processing, machine learning, denoising.
 
 **Remi Gribonval**, ENS Lyon<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+_Title:_ Rapture of the deep: highs and lows of sparsity in a world of depths.<br/>
+_Abstract:_ Promoting sparse connections in neural networks is natural to control their complexity. Besides, given its thoroughly documented role in inverse problems and variable selection, sparsity also has the potential to give rise to learning mechanisms endowed with certain interpretability guarantees. Through an overview of recent explorations around this theme, I will compare and contrast classical sparse regularization for inverse problems with multilayer sparse approximation. During our journey, I will notably highlight the role of rescaling-invariances in deep parameterizations, which come with their curses and blessings. In the process we will also be remembered that there is life beyond gradient descent, as illustrated by an algorithm that brings speedups of up to two orders of magnitude when learning certain fast transforms via multilayer sparse factorization..<br/>
+
 
 **Stéphane Jaffard**, Université Paris-Est<br/>
 _Title:_ Random Fourier series   vs.  random  wavelet series<br/>
