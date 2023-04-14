@@ -21,12 +21,12 @@ _Title:_ The quest for adaptivity <br/>
 _Abstract:_ Most machine learning classes and textbooks mention that there is no universal supervised learning algorithm that can do reasonably well on all learning problems. Indeed, a series of “no free lunch theorems” state that even in a simple input space, for any learning algorithm, there always exists a bad conditional distribution of outputs given inputs where this algorithm performs arbitrarily bad. Such theorems do not imply that all learning methods are equally bad, but rather that all learning methods will suffer from some weaknessess. In this talk, I present and contrast the weaknesses and strengths of popular methods such as k-nearest-neighbor, kernel methods, and neural networks.
 
 
-**Richard Baranuik**<br/>
+**Richard Baranuik**, Rice University <br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
 
-**Freddy Bruckstein**<br/>
+**Freddy Bruckstein**, Technion <br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -41,7 +41,7 @@ _Title:_ Human attention and communication mediated via machine learning<br/>
 _Abstract:_ The beauty of wavelets is that they are intuitively graspable, while being grounded in deep mathematical foundations. As Gabor wavelets are representative of visual perceptive fields, wavelets have been used to model biological principles of vision. Wavelets have in turn proved useful to extract information from brain activity,  by focusing on repeating patterns that emerge from noise. While machines are particularly apt at recognizing repetitive patterns, humans are expert at detecting departures from regularity. Neural markers related to departures from regularity are correlates of human attention, independently of sensory modality. Machines can be trained to measure this trace of attention in neural signals, which can provide novel ways to mediate communication between humans.<br/>
 _Keywords:_ visual perception, maching learning, wavelets, neuroscience.
 
-**Maarten De Hoop**<br/>
+**Maarten De Hoop**, Rice University <br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -58,7 +58,7 @@ _Title:_ The New Era of Image Denoising<br/>
 _Abstract:_ Image denoising is one of the oldest and most studied problems in image processing. An extensive work over several decades has led to thousands of papers on this subject, and to many well-performing algorithms for this task. As expected, the era of deep learning has brought yet another revolution to this subfield, and took the lead in today’s ability for noise suppression in images. This talk focuses on recently discovered abilities and opportunities of image denoisers. We expose the possibility of using image denoisers for serving other problems, such as regularizing general inverse problems and serving as the engine for image synthesis. We also unveil the (strange?) idea that denoising and other inverse problems might not have a unique solution, as common algorithms would have you believe. Instead, we describe constructive ways to produce randomized and diverse high perceptual quality results for inverse problems.<br/>
 _Keywords:_ signal processing, image processing, machine learning, denoising.
 
-**Remi Gribonval**<br/>
+**Remi Gribonval**, ENS Lyon<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -84,7 +84,7 @@ _Title:_ Reliable AI: From Applied Harmonic Analysis to Quantum Computing<br/>
 _Abstract:_ The new wave of artificial intelligence is impacting industry, public life, and the sciences in an unprecedented manner. In mathematics, it has by now already led to paradigm changes in several areas. However, one current major drawback is the lack of reliability of such methodologies. In this talk, we will focus on the key aspects of reliability of deep neural networks, namely generalization and explainbility, and discuss a complete generalization result in the setting of graph neural networks and a novel explainbility approach based on applied harmonic analysis. Finally, we will briefly touch upon limitations as well, show that from a computability viewpoint digital hardware causes a serious problem for reliability, and reveal a surprising connection to novel computing approaches such as quantum computing.<br/>
 _Keywords:_ harmonic analysis, machine learning, quantum computing.
 
-**Yann Le Cun**<br/>
+**Yann Le Cun**, NYU and Meta<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -95,7 +95,7 @@ _Abstract:_ We develop an explore-exploit Markov chain Monte Carlo algorithm (Ex
 We illustrate the efficiency of Ex2MCMC and its adaptive versions in many classical sampling benchmarks. We also show that these algorithms improve the quality of sampling GANs as energy-based models.<br/>
 _Keywords:_ machine learning, sampling, Markov chain Monte Carlo.
 
-**Edouard Oyallon**<br/>
+**Edouard Oyallon**, CNRS<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
