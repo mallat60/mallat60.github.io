@@ -11,6 +11,16 @@ header-img: "img/hokusai-3.jpg"
 Abstracts: 
 ----
 
+**Akram Aldroubi**, Vanderbilt University<br/>
+_Title:_ Dynamical Sampling And Frames<br/>
+_Abstract:_ Dynamical sampling is a term describing an emerging set of problems related to recovering signals and evolution operators from space-time samples. For example, consider the abstract IVP in a separable Hilbert space H: du/dt=Au+F. When, F=0, A is a known (or unknown) operator, and the goal is to recover u0 from the samples {u(ti,xj)} on a sampling set {(ti,xj)}, we get the so called space-time sampling problems. If the goal is to identify the operator A, or some of its characteristics, we get the system identification problems. If instead we wish to recover F, we get the source term problems. In this talk, I will present an overview of dynamical sampling, and some open problems.<br/>
+_Keywords:_ sampling, frames, signal processing, system identification.
+
+**Francis Bach**, Inria, ENS <br/>
+_Title:_ The quest for adaptivity <br/>
+_Abstract:_ Most machine learning classes and textbooks mention that there is no universal supervised learning algorithm that can do reasonably well on all learning problems. Indeed, a series of “no free lunch theorems” state that even in a simple input space, for any learning algorithm, there always exists a bad conditional distribution of outputs given inputs where this algorithm performs arbitrarily bad. Such theorems do not imply that all learning methods are equally bad, but rather that all learning methods will suffer from some weaknessess. In this talk, I present and contrast the weaknesses and strengths of popular methods such as k-nearest-neighbor, kernel methods, and neural networks.
+
+
 **Richard Baranuik**<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
@@ -20,11 +30,6 @@ _Keywords:_
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
-
-**Akram Aldroubi**, Vanderbilt University<br/>
-_Title:_ Dynamical Sampling And Frames<br/>
-_Abstract:_ Dynamical sampling is a term describing an emerging set of problems related to recovering signals and evolution operators from space-time samples. For example, consider the abstract IVP in a separable Hilbert space H: du/dt=Au+F. When, F=0, A is a known (or unknown) operator, and the goal is to recover u0 from the samples {u(ti,xj)} on a sampling set {(ti,xj)}, we get the so called space-time sampling problems. If the goal is to identify the operator A, or some of its characteristics, we get the system identification problems. If instead we wish to recover F, we get the source term problems. In this talk, I will present an overview of dynamical sampling, and some open problems.<br/>
-_Keywords:_ sampling, frames, signal processing, system identification.
 
 **Emmanuel Candès**, Stanford University<br/>
 _Title:_ A Taste of conformal prediction<br/>
@@ -63,7 +68,7 @@ _Title:_ Random Fourier series   vs.  random  wavelet series<br/>
 _Abstract:_ The huge success of wavelet bases was the consequence of two key properties:  On one hand, the general framework of multiresolution analysis, built  by Stéphane Mallat, which led to the fast decomposition/reconstruction algorithms and to the  construction of compactly supported wavelets by Ingrid Daubechies;  and, on other hand,  the characterization of large classes of function spaces by simple conditions on wavelet coefficients, worked out by Yves Meyer (often referred to as the ``multiplier property'') and  which had direct and practical consequences in  statistics and in signal and image processing. These characterizations imply that the norm of a function is not greatly modified if its  wavelet coefficients suffer  perturbations,  which guarantees the numerical robustness of the reconstruction of a function from it wavelet coefficients,  in sharp contradistinction with Fourier series. We will expose  surprizing consequences of this property, which implies  that  the regularity properties of random wavelet series strongly differ from   those of random Fourier series.<br/>
 _Keywords:_ Fourier transform, wavelet transform, multiresolution analysis.
 
-**Jerome Kalifa**<br/>
+**Jerome Kalifa** <br/>
 _Title:_ A data science startup - Let It Wave’s meandering adventure, and its duller sisters.<br/>
 _Abstract:_ In 2001, Stéphane Mallat founded Let It Wave with three of its students. The startup went through a fast-paced series of transformations, turning from its initial consulting activities to an ambitious fabless in consumer electronics for HDTV. A semi-success, the company is a good case study of a startup that originated from academic research.
 This talk is the story of Let It Wave from its origins, Le Pennec’s thesis on bandlets, to its acquisition in 2008. As this adventure turned me into a serial entrepreneur rather than an academic, I will also briefly present the duller and wiser Lixoft, another company originating from research in statistics for clinical studies, and more recent projects stemming from data science.<br/>
@@ -121,25 +126,26 @@ introduces tools for investigating their causal effect from observations.
 Joint work with Achille Nazaret.<br/>
 _Keywords:_ causality, medicine, signal processing, machine learning.
 
-**Shihab Shamma**<br/>
+**Shihab Shamma**, UMD <br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
 
-**Eero Simoncelli**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Eero Simoncelli** NYU and Flatiron Institute <br/>
+_Title:_ Photographic Image Priors in the Era of Machine Learning.<br/>
+_Abstract:_ Inverse problems in image processing and computer vision are often solved using prior probability densities, such as spectral or sparsity models.  In recent years, machine learning has provided dramatic improvements in most of these problems using artificial neural networks, which are typically optimized using nonlinear regression to provide direct solutions for each specific task.  As such, the prior probabilities are implicit, and intertwined with the tasks for which they are optimized.  I'll describe properties of priors implicitly embedded in denoising networks, and describe methods for drawing samples from them.  Extensions of these sampling methods enable the use of the implicit prior to solve any deterministic linear inverse problem, with no additional training, thus extending the power of a supervised learning for denoising to a much broader set of problems. The method relies on minimal assumptions, exhibits robust convergence over a wide range of parameter choices, and achieves state-of-the-art levels of unsupervised performance for deblurring, super-resolution, and compressive sensing. <br/>
 
 **Jean-Jacques Slotine**, MIT<br/>
 _Title:_ Stable adaptation and learning<br/>
 _Abstract:_ The human brain still largely outperforms robotic algorithms in most tasks, using computational elements 7 orders of magnitude slower than their artificial counterparts. Similarly, current large scale machine learning algorithms require millions of examples and close proximity to power plants, compared to the brain's few examples and 20W consumption. We study how modern nonlinear systems tools, such as contraction analysis, virtual dynamical systems, and adaptive nonlinear control can yield quantifiable insights about collective computation and learning in large dynamical networks. For instance, we show how stable implicit sparse regularization can be exploited in adaptive prediction or control  to select relevant dynamic models out of plausible physically-based candidates, and how most elementary results on gradient descent based on convexity  can be replaced by much more general results based on Riemannian contraction.<br/>
 _Keywords:_ neuroscience, machine learning, neural networks, sparsity.
 
-**Michael Unser**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Michael Unser** EPFL <br/>
+_Title:_ Advanced computational imaging:
+"Chassez le naturel, il revient au galop".<br/>
+_Abstract:_ Deep neural networks have a remarkable ability to improve the quality of reconstruction of biomedical images. While the results reported so far are extremely encouraging, serious reservations have been voiced pertaining to the stability of these tools and the extent to which we can trust their output. After providing an overview of the state-of-the-art, we describe iterative reconstruction schemes that rely on stable Lipschitz-constrained networks with learnable activation functions. We then identify some not-so-deep neuronal architectures that yield near state-of-the-art performance, while offering theoretical guarantees (convergence, consistency with the measurements, stability) that protect them against hallucinations. We also display a configuration that has a variational interpretation and whose components (filters and nonlinearities) are reminiscent of the wavelets and multiresolution decompositions introduced by Stéphane Mallat.
+.<br/>
+
 
 **Martin Vetterli**, EPFL<br/>
 _Title:_ Lippmann Photography: The Art and Science of Multispectral Imagery<br/>
@@ -147,13 +153,16 @@ _Abstract:_ Gabriel Lippmann won the 1908 Nobel Prize in Physics for colour phot
 It is actually the first example of multispectral imaging. We provide a complete analysis of the process and show, both theoretically and experimentally, what spectrum is reflected from a Lippmann plate.  An algorithmic recovery of the original spectrum is proposed, as well as a digital version of Lippmann photography. We discuss the application to high density permanent three-dimensional storage, and finish with an example of science communication for the general public. Joint work with Gilles Baechler, Arnaud Latty, Michalina Pacholska,  Paolo Prandoni and Adam Scholefield. References: 1. Gilles Baechler, Arnaud Latty, Michalina Pacholska, Martin Vetterli, and Adam Scholefield,  “Shedding light on 19th century spectra by analyzing Lippmann photography,”  PNAS, April 27, 2021, Vol. 118, No. 17. ; 2.  Gilles Baechler, Arnaud Latty, Michalina Pacholska, Martin Vetterli, and Adam Scholefield,  “Lippmann Photography: A Signal Processing Perspective,”  IEEE Tr. on SP, July 2022.<br/>
 _Keywords:_ computational imaging, multispectral imaging, science communication.
 
-**Irene Waldspurger**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Irene Waldspurger**Paris Dauphine<br/>
+_Title:_ Sketching semidefinite programs for super-resolution problems
+.<br/>
+_Abstract:_ In this talk, we will consider the canonical example of a super-resolution problem: the recovery of a measure on [0;1] from its first Fourier coefficients, assuming that the measure is the sum of a few spikes. Under weak assumptions, it is known that the measure to be recovered is the solution of a convex infinite-dimensional problem, which is in turn equivalent to a semidefinite program. This property yields a polynomial-time reconstruction algorithm with strong correctness guarantees.
 
-**Bin Yu**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_<br/>
-_Keywords:_
+Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters.
+
+This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
+
+
+**Bin Yu** UC Berkeley<br/>
+_Title:_ Interpreting Deep Neural Networks towards Trustworthiness.<br/>
+_Abstract:_ In this talk, I will start by describing our contextual decomposition (CD) method to interpret neural networks, which attributes importance to features and feature interactions for individual predictions. Using CD to interpret DL models in a cosmology problem led us to develop an adaptive wavelet distillation (AWD) interpretation method. AWD is shown to be both outperforming deep neural networks and interpretable in the motivating cosmology problem and an external validating cell biology problem. Finally, I will address the need to quality-control the entire data science life cycle to build any model for trustworthy interpretation.<br/>
