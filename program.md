@@ -26,6 +26,20 @@ _Title:_ Dynamical Sampling And Frames<br/>
 _Abstract:_ Dynamical sampling is a term describing an emerging set of problems related to recovering signals and evolution operators from space-time samples. For example, consider the abstract IVP in a separable Hilbert space H: du/dt=Au+F. When, F=0, A is a known (or unknown) operator, and the goal is to recover u0 from the samples {u(ti,xj)} on a sampling set {(ti,xj)}, we get the so called space-time sampling problems. If the goal is to identify the operator A, or some of its characteristics, we get the system identification problems. If instead we wish to recover F, we get the source term problems. In this talk, I will present an overview of dynamical sampling, and some open problems.<br/>
 _Keywords:_ sampling, frames, signal processing, system identification.
 
+**Francis Bach**, Inria, ENS <br/>
+_Title:_ The quest for adaptivity <br/>
+_Abstract:_ Most machine learning classes and textbooks mention that there is no universal supervised learning algorithm that can do reasonably well on all learning problems. Indeed, a series of “no free lunch theorems” state that even in a simple input space, for any learning algorithm, there always exists a bad conditional distribution of outputs given inputs where this algorithm performs arbitrarily bad. Such theorems do not imply that all learning methods are equally bad, but rather that all learning methods will suffer from some weaknessess. In this talk, I present and contrast the weaknesses and strengths of popular methods such as k-nearest-neighbor, kernel methods, and neural networks.
+
+
+**Richard Baranuik**, Rice University <br/>
+_Title:_ A Spline Tour of Deep Learning: The Scattering Way.<br/>
+_Abstract:_ Over the past decade, deep (neural) networks trained using massive data sets have enabled remarkable progress on a wide range of challenging computational problems, from pattern recognition and image synthesis to language translation and protein folding.  Nevertheless, this progress has been alchemistic and driven largely by empirical observations, hacks, and tricks. Fundamental questions remain, such as:  Why do deep learning methods work?  When do they work?  And how can they be fixed when they don’t work?  Intuitions abound, but a coherent framework for understanding, analyzing, and synthesizing deep learning architectures remains elusive. This talk will discuss the implications of this lack of understanding for consumers, practitioners, and researchers of machine learning.  We will also briefly overview recent progress towards a theory of deep learning based on rigorous mathematical principles.  Of the several promising avenues of research, we will focus on the connection between deep networks and spline approximation that provides a geometric interpretation for how deep networks organize and process data.  A particularly interesting special case is provided by the Scattering Network.<br/>
+
+**Freddy Bruckstein**, Technion <br/>
+_Title:_ TBA.<br/>
+_Abstract:_ TBA.<br/>
+_Keywords:_
+
 **Emmanuel Candès**, Stanford University<br/>
 _Title:_ A Taste of conformal prediction<br/>
 _Abstract:_ Conformal inference methods are becoming all the rage in academia and industry alike. In a nutshell, these methods deliver exact prediction intervals for future observations without making any distributional assumption whatsoever other than having iid, and more generally, exchangeable data. This talk will review the basic principles underlying conformal inference and survey some major contributions that have occurred in the last 2-3 years or. We will discuss enhanced conformity scores applicable to quantitative as well as categorical labels. If time allows, we will also survey novel methods which deal with situations, where the distribution of observations can shift drastically.<br/>
@@ -36,7 +50,7 @@ _Title:_ Human attention and communication mediated via machine learning<br/>
 _Abstract:_ The beauty of wavelets is that they are intuitively graspable, while being grounded in deep mathematical foundations. As Gabor wavelets are representative of visual perceptive fields, wavelets have been used to model biological principles of vision. Wavelets have in turn proved useful to extract information from brain activity,  by focusing on repeating patterns that emerge from noise. While machines are particularly apt at recognizing repetitive patterns, humans are expert at detecting departures from regularity. Neural markers related to departures from regularity are correlates of human attention, independently of sensory modality. Machines can be trained to measure this trace of attention in neural signals, which can provide novel ways to mediate communication between humans.<br/>
 _Keywords:_ visual perception, maching learning, wavelets, neuroscience.
 
-**Maarten De Hoop**<br/>
+**Maarten De Hoop**, Rice University<br/>
 _Title:_ Geometry, topology and discrete symmetries revealed by deep neural networks.<br/>
 _Abstract:_ A natural question at the intersection of universality efforts and manifold learning is the following: What kinds of architecture are universal approximators of maps between manifolds that are topologically interesting? A (low-dimensional) manifold hypothesis has been underlying the study of inverse problems ensuring Lipschitz stability, implying a like-wise hypothesis for data. This is used, for example, in inference through flows. By exploiting the topological parallels between locally bilipschitz maps, covering spaces, and local homeomorphisms, we find that a novel network of the form p o E, where E is an injective flow and p a coordinate projection, is a universal approximator of local diffeomorphisms between compact smooth (sub)manifolds embedded in Euclidean spaces. We show that the network allows for the computation of multi-valued inversion and that our analysis holds in the interesting case when the target map between manifolds changes topology and its degree is a priori not known. We also show that the network can be used, for example, in supervised problems for recovering the group action of a group invariant map if the group is finite, and in unsupervised problems by informing the choice of topologically expressive starting spaces in the generative case.<br/>
 _Keywords:_ Deep learning, manifold learning, invariances.
@@ -53,17 +67,17 @@ _Title:_ The New Era of Image Denoising<br/>
 _Abstract:_ Image denoising is one of the oldest and most studied problems in image processing. An extensive work over several decades has led to thousands of papers on this subject, and to many well-performing algorithms for this task. As expected, the era of deep learning has brought yet another revolution to this subfield, and took the lead in today’s ability for noise suppression in images. This talk focuses on recently discovered abilities and opportunities of image denoisers. We expose the possibility of using image denoisers for serving other problems, such as regularizing general inverse problems and serving as the engine for image synthesis. We also unveil the (strange?) idea that denoising and other inverse problems might not have a unique solution, as common algorithms would have you believe. Instead, we describe constructive ways to produce randomized and diverse high perceptual quality results for inverse problems.<br/>
 _Keywords:_ signal processing, image processing, machine learning, denoising.
 
-**Remi Gribonval**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Remi Gribonval**, ENS Lyon<br/>
+_Title:_ Rapture of the deep: highs and lows of sparsity in a world of depths.<br/>
+_Abstract:_ Promoting sparse connections in neural networks is natural to control their complexity. Besides, given its thoroughly documented role in inverse problems and variable selection, sparsity also has the potential to give rise to learning mechanisms endowed with certain interpretability guarantees. Through an overview of recent explorations around this theme, I will compare and contrast classical sparse regularization for inverse problems with multilayer sparse approximation. During our journey, I will notably highlight the role of rescaling-invariances in deep parameterizations, which come with their curses and blessings. In the process we will also be remembered that there is life beyond gradient descent, as illustrated by an algorithm that brings speedups of up to two orders of magnitude when learning certain fast transforms via multilayer sparse factorization..<br/>
+
 
 **Stéphane Jaffard**, Université Paris-Est<br/>
 _Title:_ Random Fourier series   vs.  random  wavelet series<br/>
 _Abstract:_ The huge success of wavelet bases was the consequence of two key properties:  On one hand, the general framework of multiresolution analysis, built  by Stéphane Mallat, which led to the fast decomposition/reconstruction algorithms and to the  construction of compactly supported wavelets by Ingrid Daubechies;  and, on other hand,  the characterization of large classes of function spaces by simple conditions on wavelet coefficients, worked out by Yves Meyer (often referred to as the ``multiplier property'') and  which had direct and practical consequences in  statistics and in signal and image processing. These characterizations imply that the norm of a function is not greatly modified if its  wavelet coefficients suffer  perturbations,  which guarantees the numerical robustness of the reconstruction of a function from it wavelet coefficients,  in sharp contradistinction with Fourier series. We will expose  surprizing consequences of this property, which implies  that  the regularity properties of random wavelet series strongly differ from   those of random Fourier series.<br/>
 _Keywords:_ Fourier transform, wavelet transform, multiresolution analysis.
 
-**Jerome Kalifa**<br/>
+**Jerome Kalifa** <br/>
 _Title:_ A data science startup - Let It Wave’s meandering adventure, and its duller sisters.<br/>
 _Abstract:_ In 2001, Stéphane Mallat founded Let It Wave with three of its students. The startup went through a fast-paced series of transformations, turning from its initial consulting activities to an ambitious fabless in consumer electronics for HDTV. A semi-success, the company is a good case study of a startup that originated from academic research.
 This talk is the story of Let It Wave from its origins, Le Pennec’s thesis on bandlets, to its acquisition in 2008. As this adventure turned me into a serial entrepreneur rather than an academic, I will also briefly present the duller and wiser Lixoft, another company originating from research in statistics for clinical studies, and more recent projects stemming from data science.<br/>
@@ -79,7 +93,7 @@ _Title:_ Reliable AI: From Applied Harmonic Analysis to Quantum Computing<br/>
 _Abstract:_ The new wave of artificial intelligence is impacting industry, public life, and the sciences in an unprecedented manner. In mathematics, it has by now already led to paradigm changes in several areas. However, one current major drawback is the lack of reliability of such methodologies. In this talk, we will focus on the key aspects of reliability of deep neural networks, namely generalization and explainbility, and discuss a complete generalization result in the setting of graph neural networks and a novel explainbility approach based on applied harmonic analysis. Finally, we will briefly touch upon limitations as well, show that from a computability viewpoint digital hardware causes a serious problem for reliability, and reveal a surprising connection to novel computing approaches such as quantum computing.<br/>
 _Keywords:_ harmonic analysis, machine learning, quantum computing.
 
-**Yann Le Cun**<br/>
+**Yann Le Cun**, NYU and Meta<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -90,7 +104,7 @@ _Abstract:_ We develop an explore-exploit Markov chain Monte Carlo algorithm (Ex
 We illustrate the efficiency of Ex2MCMC and its adaptive versions in many classical sampling benchmarks. We also show that these algorithms improve the quality of sampling GANs as energy-based models.<br/>
 _Keywords:_ machine learning, sampling, Markov chain Monte Carlo.
 
-**Edouard Oyallon**<br/>
+**Edouard Oyallon**, CNRS<br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -121,7 +135,7 @@ introduces tools for investigating their causal effect from observations.
 Joint work with Achille Nazaret.<br/>
 _Keywords:_ causality, medicine, signal processing, machine learning.
 
-**Shihab Shamma**<br/>
+**Shihab Shamma**, UMD <br/>
 _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
@@ -138,11 +152,10 @@ _Title:_ Stable adaptation and learning<br/>
 _Abstract:_ The human brain still largely outperforms robotic algorithms in most tasks, using computational elements 7 orders of magnitude slower than their artificial counterparts. Similarly, current large scale machine learning algorithms require millions of examples and close proximity to power plants, compared to the brain's few examples and 20W consumption. We study how modern nonlinear systems tools, such as contraction analysis, virtual dynamical systems, and adaptive nonlinear control can yield quantifiable insights about collective computation and learning in large dynamical networks. For instance, we show how stable implicit sparse regularization can be exploited in adaptive prediction or control  to select relevant dynamic models out of plausible physically-based candidates, and how most elementary results on gradient descent based on convexity  can be replaced by much more general results based on Riemannian contraction.<br/>
 _Keywords:_ neuroscience, machine learning, neural networks, sparsity.
 
-**Michael Unser**<br/>
+**Michael Unser**,  EPFL<br/>
 _Title:_ Advanced computational imaging: "Chassez le naturel, il revient au galop".<br/>
 _Abstract:_ Deep neural networks have a remarkable ability to improve the quality of reconstruction of biomedical images. While the results reported so far are extremely encouraging, serious reservations have been voiced pertaining to the stability of these tools and the extent to which we can trust their output. After providing an overview of the state-of-the-art, we describe iterative reconstruction schemes that rely on stable Lipschitz-constrained networks with learnable activation functions. We then identify some not-so-deep neuronal architectures that yield near state-of-the-art performance, while offering theoretical guarantees (convergence, consistency with the measurements, stability) that protect them against hallucinations. We also display a configuration that has a variational interpretation and whose components (filters and nonlinearities) are reminiscent of the wavelets and multiresolution decompositions introduced by Stéphane Mallat.<br/>
 _Keywords:_ Computational imaging, deep learning, wavelets, multiresolution.
-
 
 
 
@@ -159,10 +172,11 @@ _Title:_ Sketching semidefinite programs for super-resolution problems.<br/>
 _Abstract:_ In this talk, we will consider the canonical example of a super-resolution problem: the recovery of a measure on [0;1] from its first Fourier coefficients, assuming that the measure is the sum of a few spikes. Under weak assumptions, it is known that the measure to be recovered is the solution of a convex infinite-dimensional problem, which is in turn equivalent to a semidefinite program. This property yields a polynomial-time reconstruction algorithm with strong correctness guarantees. Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters. This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
 _Keywords:_ Super-resolution, optimization, sparsity.
 
+Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters.
+
+This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
 
 
-**Bin Yu**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_<br/>
-_Keywords:_
+**Bin Yu** UC Berkeley<br/>
+_Title:_ Interpreting Deep Neural Networks towards Trustworthiness.<br/>
+_Abstract:_ In this talk, I will start by describing our contextual decomposition (CD) method to interpret neural networks, which attributes importance to features and feature interactions for individual predictions. Using CD to interpret DL models in a cosmology problem led us to develop an adaptive wavelet distillation (AWD) interpretation method. AWD is shown to be both outperforming deep neural networks and interpretable in the motivating cosmology problem and an external validating cell biology problem. Finally, I will address the need to quality-control the entire data science life cycle to build any model for trustworthy interpretation.<br/>
