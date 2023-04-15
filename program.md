@@ -11,10 +11,10 @@ header-img: "img/hokusai-3.jpg"
 Abstracts: 
 ----
 
-**Richard Baranuik**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Richard Baranuik**, Rice University<br/>
+_Title:_ A Spline Tour of Deep Learning: The Scattering Way.<br/>
+_Abstract:_ Over the past decade, deep (neural) networks trained using massive data sets have enabled remarkable progress on a wide range of challenging computational problems, from pattern recognition and image synthesis to language translation and protein folding.  Nevertheless, this progress has been alchemistic and driven largely by empirical observations, hacks, and tricks. Fundamental questions remain, such as:  Why do deep learning methods work?  When do they work?  And how can they be fixed when they don’t work?  Intuitions abound, but a coherent framework for understanding, analyzing, and synthesizing deep learning architectures remains elusive. This talk will discuss the implications of this lack of understanding for consumers, practitioners, and researchers of machine learning.  We will also briefly overview recent progress towards a theory of deep learning based on rigorous mathematical principles.  Of the several promising avenues of research, we will focus on the connection between deep networks and spline approximation that provides a geometric interpretation for how deep networks organize and process data.  A particularly interesting special case is provided by the Scattering Network.<br/>
+_Keywords:_ Spline, deep learning, scattering transform.
 
 **Freddy Bruckstein**<br/>
 _Title:_ TBA.<br/>
@@ -37,9 +37,9 @@ _Abstract:_ The beauty of wavelets is that they are intuitively graspable, while
 _Keywords:_ visual perception, maching learning, wavelets, neuroscience.
 
 **Maarten De Hoop**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+_Title:_ Geometry, topology and discrete symmetries revealed by deep neural networks.<br/>
+_Abstract:_ A natural question at the intersection of universality efforts and manifold learning is the following: What kinds of architecture are universal approximators of maps between manifolds that are topologically interesting? A (low-dimensional) manifold hypothesis has been underlying the study of inverse problems ensuring Lipschitz stability, implying a like-wise hypothesis for data. This is used, for example, in inference through flows. By exploiting the topological parallels between locally bilipschitz maps, covering spaces, and local homeomorphisms, we find that a novel network of the form p o E, where E is an injective flow and p a coordinate projection, is a universal approximator of local diffeomorphisms between compact smooth (sub)manifolds embedded in Euclidean spaces. We show that the network allows for the computation of multi-valued inversion and that our analysis holds in the interesting case when the target map between manifolds changes topology and its degree is a priori not known. We also show that the network can be used, for example, in supervised problems for recovering the group action of a group invariant map if the group is finite, and in unsupervised problems by informing the choice of topologically expressive starting spaces in the generative case.<br/>
+_Keywords:_ Deep learning, manifold learning, invariances.
 
 
 **David Donoho**, Stanford University<br/>
@@ -126,20 +126,27 @@ _Title:_ TBA.<br/>
 _Abstract:_ TBA.<br/>
 _Keywords:_
 
-**Eero Simoncelli**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Eero Simoncelli**, NYU<br/>
+_Title:_ Photographic Image Priors in the Era of Machine Learning.<br/>
+_Abstract:_ Inverse problems in image processing and computer vision are often solved using prior probability densities, such as spectral or sparsity models.  In recent years, machine learning has provided dramatic improvements in most of these problems using artificial neural networks, which are typically optimized using nonlinear regression to provide direct solutions for each specific task.  As such, the prior probabilities are implicit, and intertwined with the tasks for which they are optimized.  I'll describe properties of priors implicitly embedded in denoising networks, and describe methods for drawing samples from them.  Extensions of these sampling methods enable the use of the implicit prior to solve any deterministic linear inverse problem, with no additional training, thus extending the power of a supervised learning for denoising to a much broader set of problems. The method relies on minimal assumptions, exhibits robust convergence over a wide range of parameter choices, and achieves state-of-the-art levels of unsupervised performance for deblurring, super-resolution, and compressive sensing.<br/>
+_Keywords:_ Inverse problems, machine learning, deblurring, super-resolution. 
 
+
+  
 **Jean-Jacques Slotine**, MIT<br/>
 _Title:_ Stable adaptation and learning<br/>
 _Abstract:_ The human brain still largely outperforms robotic algorithms in most tasks, using computational elements 7 orders of magnitude slower than their artificial counterparts. Similarly, current large scale machine learning algorithms require millions of examples and close proximity to power plants, compared to the brain's few examples and 20W consumption. We study how modern nonlinear systems tools, such as contraction analysis, virtual dynamical systems, and adaptive nonlinear control can yield quantifiable insights about collective computation and learning in large dynamical networks. For instance, we show how stable implicit sparse regularization can be exploited in adaptive prediction or control  to select relevant dynamic models out of plausible physically-based candidates, and how most elementary results on gradient descent based on convexity  can be replaced by much more general results based on Riemannian contraction.<br/>
 _Keywords:_ neuroscience, machine learning, neural networks, sparsity.
 
 **Michael Unser**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+_Title:_ Advanced computational imaging: "Chassez le naturel, il revient au galop".<br/>
+_Abstract:_ Deep neural networks have a remarkable ability to improve the quality of reconstruction of biomedical images. While the results reported so far are extremely encouraging, serious reservations have been voiced pertaining to the stability of these tools and the extent to which we can trust their output. After providing an overview of the state-of-the-art, we describe iterative reconstruction schemes that rely on stable Lipschitz-constrained networks with learnable activation functions. We then identify some not-so-deep neuronal architectures that yield near state-of-the-art performance, while offering theoretical guarantees (convergence, consistency with the measurements, stability) that protect them against hallucinations. We also display a configuration that has a variational interpretation and whose components (filters and nonlinearities) are reminiscent of the wavelets and multiresolution decompositions introduced by Stéphane Mallat.<br/>
+_Keywords:_ Computational imaging, deep learning, wavelets, multiresolution.
+
+
+
+
+
 
 **Martin Vetterli**, EPFL<br/>
 _Title:_ Lippmann Photography: The Art and Science of Multispectral Imagery<br/>
@@ -147,10 +154,12 @@ _Abstract:_ Gabriel Lippmann won the 1908 Nobel Prize in Physics for colour phot
 It is actually the first example of multispectral imaging. We provide a complete analysis of the process and show, both theoretically and experimentally, what spectrum is reflected from a Lippmann plate.  An algorithmic recovery of the original spectrum is proposed, as well as a digital version of Lippmann photography. We discuss the application to high density permanent three-dimensional storage, and finish with an example of science communication for the general public. Joint work with Gilles Baechler, Arnaud Latty, Michalina Pacholska,  Paolo Prandoni and Adam Scholefield. References: 1. Gilles Baechler, Arnaud Latty, Michalina Pacholska, Martin Vetterli, and Adam Scholefield,  “Shedding light on 19th century spectra by analyzing Lippmann photography,”  PNAS, April 27, 2021, Vol. 118, No. 17. ; 2.  Gilles Baechler, Arnaud Latty, Michalina Pacholska, Martin Vetterli, and Adam Scholefield,  “Lippmann Photography: A Signal Processing Perspective,”  IEEE Tr. on SP, July 2022.<br/>
 _Keywords:_ computational imaging, multispectral imaging, science communication.
 
-**Irene Waldspurger**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Irene Waldspurger**, CNRS and Univ. Dauphine<br/>
+_Title:_ Sketching semidefinite programs for super-resolution problems.<br/>
+_Abstract:_ In this talk, we will consider the canonical example of a super-resolution problem: the recovery of a measure on [0;1] from its first Fourier coefficients, assuming that the measure is the sum of a few spikes. Under weak assumptions, it is known that the measure to be recovered is the solution of a convex infinite-dimensional problem, which is in turn equivalent to a semidefinite program. This property yields a polynomial-time reconstruction algorithm with strong correctness guarantees. Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters. This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
+_Keywords:_ Super-resolution, optimization, sparsity.
+
+
 
 **Bin Yu**<br/>
 _Title:_ TBA.<br/>
