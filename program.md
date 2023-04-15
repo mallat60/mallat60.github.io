@@ -172,9 +172,6 @@ _Title:_ Sketching semidefinite programs for super-resolution problems.<br/>
 _Abstract:_ In this talk, we will consider the canonical example of a super-resolution problem: the recovery of a measure on [0;1] from its first Fourier coefficients, assuming that the measure is the sum of a few spikes. Under weak assumptions, it is known that the measure to be recovered is the solution of a convex infinite-dimensional problem, which is in turn equivalent to a semidefinite program. This property yields a polynomial-time reconstruction algorithm with strong correctness guarantees. Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters. This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
 _Keywords:_ Super-resolution, optimization, sparsity.
 
-Unfortunately, the size of the semidefinite program can be extremely large, even when the measure contains a very small number of spikes. I will present a sketching approach to reduce this size. Proving that this approach retains the correctness guarantees is still an ongoing work. I will present a byproduct of our efforts to find a proof, namely an algorithm to automatically find (simple) upper bounds on some integrals with parameters.
-
-This work is a collaboration with Augustin Cosse and Gabriel Peyré.<br/>
 
 
 **Bin Yu** UC Berkeley<br/>
