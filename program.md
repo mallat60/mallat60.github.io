@@ -16,10 +16,10 @@ _Title:_ A Spline Tour of Deep Learning: The Scattering Way.<br/>
 _Abstract:_ Over the past decade, deep (neural) networks trained using massive data sets have enabled remarkable progress on a wide range of challenging computational problems, from pattern recognition and image synthesis to language translation and protein folding.  Nevertheless, this progress has been alchemistic and driven largely by empirical observations, hacks, and tricks. Fundamental questions remain, such as:  Why do deep learning methods work?  When do they work?  And how can they be fixed when they don’t work?  Intuitions abound, but a coherent framework for understanding, analyzing, and synthesizing deep learning architectures remains elusive. This talk will discuss the implications of this lack of understanding for consumers, practitioners, and researchers of machine learning.  We will also briefly overview recent progress towards a theory of deep learning based on rigorous mathematical principles.  Of the several promising avenues of research, we will focus on the connection between deep networks and spline approximation that provides a geometric interpretation for how deep networks organize and process data.  A particularly interesting special case is provided by the Scattering Network.<br/>
 _Keywords:_ Spline, deep learning, scattering transform.
 
-**Freddy Bruckstein**<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+**Freddy Bruckstein**, Technion<br/>
+_Title:_ Holographic Data Representations.<br/>
+_Abstract:_ Holographic representations of data encode information in packets of equal importance that enable progressive recovery. The quality of recovered data improves as more and more packets become available. This progressive recovery of the information is independent of the order in which packets become available. Such representations are ideally suited for distributed storage and for the transmission of data packets over networks with unpredictable delays and or erasures. (Talk based on joint work with A. Netravali, Bob Holt, Fred Ezerman, Ling San, Adamas Fahreza, Yehuda Dar over the years  1998-2022).<br/>
+_Keywords:_ Distributed Data Representations, Stochastic Data Models, Holographic Properties
 
 **Akram Aldroubi**, Vanderbilt University<br/>
 _Title:_ Dynamical Sampling And Frames<br/>
