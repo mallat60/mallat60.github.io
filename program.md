@@ -105,9 +105,11 @@ We illustrate the efficiency of Ex2MCMC and its adaptive versions in many classi
 _Keywords:_ machine learning, sampling, Markov chain Monte Carlo.
 
 **Edouard Oyallon**, CNRS<br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+_Title:_ Exploring Shallow Architectures for Image Classification.<br/>
+_Abstract:_ Deep Convolutional Neural Networks (CNNs) have achieved remarkable success in various tasks, particularly in image classification. In contrast, Scattering Networks, a two-layer deep CNN architecture derived from cascaded complex wavelet transforms and modulus
+ pointwise non-linearity, have shown promise but lag behind deep CNNs in terms of performance on the widely recognized ImageNet dataset In this talk, we revisit the central question that drove my PhD research: "Is it possible to derive competitive representations for image classification using geometric arguments?" Although this inquiry did not yield the desired outcome, it sparked an intriguing research direction focusing on the potential of shallow architectures in tackling the ImageNet dataset. We will review these findings and discuss potential challenges in the area of shallow learning.<br/>
+_Keywords:_ deep learning, shallow architectures, scattering transform.
+ 
 
 **Naoki Saito**, UC Davis<br/>
 _Title:_ Multiscale basis dictionaries and scattering networks on simplicial complexes<br/>
