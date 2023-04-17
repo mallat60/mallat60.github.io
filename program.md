@@ -136,9 +136,9 @@ Joint work with Achille Nazaret.<br/>
 _Keywords:_ causality, medicine, signal processing, machine learning.
 
 **Shihab Shamma**, UMD <br/>
-_Title:_ TBA.<br/>
-_Abstract:_ TBA.<br/>
-_Keywords:_
+_Title:_ The Rainbow Connection.<br/>
+_Abstract:_ Stephane has contributed enormously to Auditory Neuroscience and Computations, although he has not isolated a single-cell, or recorded an EEG or MEG!  Stephane’s influence is powerful and intellectual. He has unknowingly shaped the way we view the cochlea, its encoding of sound, its journey to and through the auditory cortex, and how auditory neuroscientists assess the encoded information and reconstruct it. I shall explain to you and to Stephane why he really should be viewed as a foremost auditory practitioner! <br/>
+_Keywords:_ Audio processing, machine learning, neurosciences.
 
 **Eero Simoncelli**, NYU<br/>
 _Title:_ Photographic Image Priors in the Era of Machine Learning.<br/>
