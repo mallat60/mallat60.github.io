@@ -5,7 +5,7 @@ description: ""
 header-img: "img/hokusai-3.jpg"
 ---
 
-![Schedule of the conference](img/schedule_updated.png)
+![Schedule of the conference](img/s60sfinal.png)
 
 
 Abstracts: 
