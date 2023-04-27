@@ -37,7 +37,13 @@ His journey through Harmonic Analysis, Machine Learning, and Physics has profoun
 Program 
 ==========
 
-The current (tentative) schedule can be found [here](program.md).
+The program can be found [here](program.md).
+
+
+Videos 
+===========
+
+The videos of the talks can be found [here](https://www.youtube.com/playlist?list=PLx5f8IelFRgHVpqgpKKYx4f6YuKX1XdgY)
 
 
 List of Speakers
